@@ -2,10 +2,10 @@
 
 ## Quick Start
 
-### 1. Clone or Download
+### 1. Clone the Repository
 ```bash
-git clone <repository-url>
-cd fourSquare
+git clone https://github.com/andriymalyshchak1/CodeFour.git
+cd CodeFour
 ```
 
 ### 2. Compile
